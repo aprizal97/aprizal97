@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aprizal97
-- 👀 I’m interested in programming world
+- 👀 I’m interested in programming world especially in  data science
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on sanbercode.com
 
